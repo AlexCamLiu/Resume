@@ -1,0 +1,43 @@
+a {
+	color:black;
+}
+
+.header {
+	display: inline-block;
+	font-family: 'Istok Web', sans-serif; font-weight: 700;
+	font-size: 40px;
+}
+
+.contactInfo {
+	float: right;
+	text-align: right;
+	display: inline-block;
+	font-size: 16px;
+	font-family: 'Istok Web', sans-serif; font-weight: 400;
+}
+
+.container .panel-heading {
+	font-size: 18px;
+	font-family: 'Istok Web', sans-serif; font-weight: 700;
+}
+
+.job em {
+	font-size: 14px
+}
+
+.school, .job {
+	display: inline-block;
+	font-family: 'Istok Web', sans-serif; font-weight: 400;
+	font-size: 18px;
+}
+
+.tasks {
+	padding-top: 10px
+}
+
+.timeline {
+	float: right;
+	text-align: right;
+	display: inline-block;
+}
+
